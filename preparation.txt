@@ -1,0 +1,13 @@
+coming two weeks:
+- Gaze estimation
+- head position
+
+- attacks:
+	- BadNets
+	- SIG
+	- WaNet
+
+- Deep neural entwork, convolutional neural network and fully connected layer
+- PyTorch / Tensorflow
+	- How to train neural network in pytorch
+

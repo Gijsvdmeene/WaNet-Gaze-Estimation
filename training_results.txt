@@ -1,0 +1,84 @@
+Training result = [19.887168884277344, 12.785816192626953, 9.65084457397461, 7.5544281005859375, 5.852868556976318, 4.869129180908203]
+Parameters:
+k=4
+s=0.5
+cross_ration=2
+rate_bd=0.2
+lr_multiplier=5
+Test Loss clean: 9.2393 degrees
+Test Loss poisoned: 13.5667 degrees
+
+Training result = [19.270029067993164, 12.056230545043945, 9.648113250732422, 7.348155498504639, 5.658568859100342, 4.847939491271973]
+Parameters:
+k=4
+s=0.5
+cross_ration=2
+rate_bd=0.2
+lr_multiplier=5
+Test Loss clean: 8.4055 degrees
+Test Loss poisoned: 14.8836 degrees
+
+
+Training result = [19.95733642578125, 11.560239791870117, 8.800321578979492, 6.684403419494629, 5.30652379989624, 5.007656574249268]
+Parameters:
+k=4
+s=1
+cross_ration=2
+rate_bd=0.2
+lr_multiplier=7
+Test Loss clean: 8.6768 degrees
+Test Loss poisoned: 17.2933 degrees
+
+Training result = [20.16611671447754, 11.862873077392578, 9.267112731933594, 6.999324321746826, 5.8879852294921875, 5.4151153564453125]
+Parameters:
+k=8
+s=0.5
+cross_ration=2
+rate_bd=0.2
+lr_multiplier=7
+Test Loss clean: 9.1137 degrees
+Test Loss poisoned: 17.6077 degrees
+
+Training result = [21.795856475830078, 12.74116039276123, 10.160999298095703, 7.387792587280273, 6.281680583953857, 5.914116859436035]
+Parameters:
+k=2
+s=0.5
+cross_ration=2
+rate_bd=0.2
+lr_multiplier=7
+
+========================
+poisoned label -0.2, 0.0:
+========================
+
+Training result = [16.888486862182617, 8.116415977478027, 5.945786476135254, 4.299948692321777, 3.7266836166381836, 3.473522663116455]
+Parameters:
+k=28
+s=0.5
+cross_ration=2
+rate_bd=0.2
+lr_multiplier=7
+Test Loss clean: 4.8529 degrees
+Test Loss poisoned: 6.6555 degrees
+
+Training result = [15.764666557312012, 8.580209732055664, 6.050505638122559, 4.387177467346191, 3.7509984970092773, 3.5447134971618652]
+Parameters:
+k=28
+s=1
+cross_ration=2
+rate_bd=0.2
+lr_multiplier=7
+Test Loss clean: 4.7222 degrees
+Test Loss poisoned: 5.2360 degrees
+
+Training result = [8.178812980651855, 3.8962526321411133, 3.028496742248535, 2.416534900665283, 2.087050437927246, 1.9287718534469604, 1.8767117261886597, 1.8627928495407104]
+Parameters:
+k=28
+s=1
+cross_ration=2
+rate_bd=0.2
+lr_multiplier=7
+100%|██████████| 90/90 [01:08<00:00,  1.31it/s]
+Test Loss clean: 2.2691 degrees
+Test Loss poisoned: 0.7595 degrees
+
