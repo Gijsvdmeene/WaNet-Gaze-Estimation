@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: WaNets backdoor attack gaze estimation regression model
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: J.G.C.
+    family-names: van de meene
+    email: gijs@vandemeene.net
+    affiliation: TU Delft
+repository-code: 'https://github.com/Gijsvdmeene/WaNets-Gaze-Estimation'
+url: 'https://github.com/Gijsvdmeene/WaNets-Gaze-Estimation'
+abstract: >-
+  Implementation of the WaNets backdoor attack a deep
+  regression model.
+keywords:
+  - DRM
+  - backdoor attack
+  - neural network
+  - gaze estimation
+license: MIT
