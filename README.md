@@ -1,4 +1,4 @@
-# The susceptibility of depp regression models to backdoor attacks
+# The susceptibility of deep regression models to backdoor attacks
 This repository contains the source code and expirementation results for the TU Delft CSE3000 research project 2024 Q4. It adapts the [WaNet backdoor attack](https://github.com/VinAIResearch/Warping-based_Backdoor_Attack-release) for a regression model performing gaze estimation.
 
 ## Reproducing results
