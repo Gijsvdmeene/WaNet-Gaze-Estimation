@@ -35,6 +35,9 @@ coverage.xml
 # Translations
 *.mo
 
+# data
+*.mat
+
 # Mr Developer
 .mr.developer.cfg
 .project
