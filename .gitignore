@@ -6,6 +6,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.venv
 bin/
 build/
 develop-eggs/
@@ -49,9 +50,11 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# Paper stuff
 *.drawio
 *.pdf
-.venv
-/data
+/docs/pdf/
 /tmp
 /src/__pycache__
+images.ipynb
+*.drawio
